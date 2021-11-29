@@ -15,7 +15,6 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 😀 I like to crochet, code, read, and draw in my free time.
 - 💬 Ask me about fountain pens.
 - ⚡ Fun fact: the first programming language that I learned is Pascal
-- 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShathaCodes&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
