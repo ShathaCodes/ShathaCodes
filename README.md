@@ -4,9 +4,18 @@
 
 My name is Shatha Siala and I am a Software Engineering Student whose passionate about learning new tools and technologies!
 
+For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
+
 <!--
 **ShathaCodes/ShathaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+- 🌱 I’m currently learning Python and React JS.
+- 🔭 I’m currently working on Full-Stack Web Development.
+- 😀 I like to crochet, code, read, and draw in my free time.
+- 💬 Ask me about fountain pens.
+- ⚡ Fun fact: the first programming language that I learned is Pascal
+- 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShathaCodes&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
