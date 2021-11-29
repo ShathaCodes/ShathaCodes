@@ -14,7 +14,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 🔭 I’m currently working on Full-Stack Web Development.
 - 😀 I like to crochet, code, read, and draw in my free time.
 - 💬 Ask me about fountain pens.
-- ⚡ Fun fact: the first programming language that I learned is Pascal
+- ⚡ Fun fact: the first programming language I learned is Pascal
 
 ---------------------------------------------------------------------------------------------------------------
 ## Trophies
