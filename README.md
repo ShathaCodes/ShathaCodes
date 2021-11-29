@@ -16,6 +16,9 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 💬 Ask me about fountain pens.
 - ⚡ Fun fact: the first programming language that I learned is Pascal
 
+---------------------------------------------------------------------------------------------------------------
+## Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShathaCodes&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---------------------------------------------------------------------------------------------------------------
@@ -25,6 +28,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShathaCodes&theme=radical)](https://git.io/streak-stats) 
 ![ShathaCodes's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShathaCodes&layout=compact&theme=radical)
 
+---------------------------------------------------------------------------------------------------------------
 ## Contact Me
 [![Linkedin](https://img.shields.io/badge/-shathasiala-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shathasiala)
 [![Gmail](https://img.shields.io/badge/-shatha.siala-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shatha.siala@gmail.com)
