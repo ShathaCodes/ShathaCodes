@@ -13,7 +13,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 🌱 I’m currently learning Python and React JS.
 - 🔭 I’m currently working on Full-Stack Web Development.
 - 😀 I like to crochet, code, read, and draw in my free time.
-- 💬 Ask me about fountain pens.
+- 💬 Ask me about sticky notes.
 - ⚡ Fun fact: the first programming language I learned is Pascal
 
 ---------------------------------------------------------------------------------------------------------------
