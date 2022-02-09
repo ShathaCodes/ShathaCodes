@@ -10,11 +10,11 @@ For my programming projects, I usually only upload to Github once I make signifi
 **ShathaCodes/ShathaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning Python and React JS.
-- 🔭 I’m currently working on Full-Stack Web Development.
+- 🌱 I’m currently learning TensorFlow and OpenCV.
+- 🔭 I’m currently working on a Computer Vision project.
 - 😀 I like to crochet, code, read, and draw in my free time.
-- 💬 Ask me about sticky notes.
-- ⚡ Fun fact: the first programming language I learned is Pascal
+- 💬 Ask me about sandwiches.
+- ⚡ Fun fact: the first programming language I learned is Pascal.
 
 ---------------------------------------------------------------------------------------------------------------
 ## Trophies
