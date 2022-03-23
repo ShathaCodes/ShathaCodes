@@ -10,11 +10,10 @@ For my programming projects, I usually only upload to Github once I make signifi
 **ShathaCodes/ShathaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning TensorFlow and OpenCV.
-- 🔭 I’m currently working on a Computer Vision project.
+- 🌱 I’m currently learning TensorFlow and Ansible.
+- 🔭 I’m currently working on a Deep Learning project.
 - 😀 I like to crochet, code, read, and draw in my free time.
-- 💬 Ask me about sandwiches.
-- ⚡ Fun fact: the first programming language I learned is Pascal.
+- 💬 My favourite quote is **Good judgment comes from experience, and a lot of that comes from bad judgment -- Will Rogers**
 
 ---------------------------------------------------------------------------------------------------------------
 ## Trophies
