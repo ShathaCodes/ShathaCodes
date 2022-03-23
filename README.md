@@ -26,4 +26,4 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 ![ShathaCodes GitHub stats](https://github-readme-stats.vercel.app/api?username=ShathaCodes&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShathaCodes&theme=radical)](https://git.io/streak-stats)
-<img src="https://activity-graph.herokuapp.com/graph?username=ShathaCodes611&hide_border=true&theme=redical"/><br><br>
+<img src="https://activity-graph.herokuapp.com/graph?username=ShathaCodes&hide_border=true&theme=redical"/><br><br>
